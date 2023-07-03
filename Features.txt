@@ -1,0 +1,11 @@
+trting to make strong authenticaition like 
+resetlink 
+user name generation like discord
+allow only two devices login
+prevent account sharing
+
+logout user after somespecific time
+
+
+
+**logout from all devices
